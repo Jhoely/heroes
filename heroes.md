@@ -6,4 +6,6 @@
 * Aquaman
 * Mujer Maravilla
 *Capitan America
+*elastic girl
+*iroman
 
