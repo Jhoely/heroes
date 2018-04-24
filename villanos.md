@@ -4,4 +4,6 @@
 *megatron
 *flash reverso
 *voldemor
+*el duende verde
+*magneto
 
